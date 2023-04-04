@@ -1,4 +1,4 @@
-![logo](https://www.shutterstock.com/image-vector/front-end-development-web-application-260nw-1150510607.jpg)
+![logo](https://www.codingbytes.com/wp-content/uploads/2022/03/full-stack-web-development.jpg)
 <h1 align="center">Hi 👋, I'm Ragini Patil</h1>
 <h3 align="center">Detail-oriented Full Stack Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently Mern stack **React,html,css,mongodb,aws,java,dsa**
+- 🌱 I’m currently Learning Mern stack **React,html,css,mongodb,aws,java,dsa**
 
 - 📫 How to reach me **raginip721@gmail.com**
 
