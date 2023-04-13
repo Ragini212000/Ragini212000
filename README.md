@@ -4,6 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm Ragini Patil</h1>
 <h3 align="center">Detail-oriented Full Stack Web Developer</h3>
+<h2>Detail-oriented Full Stack Web Developer with proficient
+technical skills in coding and data structure algorithms. Efficient
+in solving problems and building new software. Looking forward
+to an opportunity to deploy skills and be a part of the success of
+an organization.
+</h2>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ragini212000&label=Profile%20views&color=0e75b6&style=flat" alt="ragini212000" /> </p>
