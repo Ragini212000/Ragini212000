@@ -16,13 +16,13 @@ an organization.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently Mern stack **React,html,css,mongodb,aws,java,dsa**
+- 🌱 I’m currently : Mern stack **React,html,css,mongodb,aws,java,dsa**
 
-- 📫 How to reach me **raginip721@gmail.com**
+- 📫 How to reach me : **raginip721@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10HumwtA4JOX87ak6EFyNWcEclXCmAxgi/view?usp=sharing](https://drive.google.com/file/d/10HumwtA4JOX87ak6EFyNWcEclXCmAxgi/view?usp=sharing)
+- 📄 Know about my experiences : [https://drive.google.com/file/d/10HumwtA4JOX87ak6EFyNWcEclXCmAxgi/view?usp=sharing](https://drive.google.com/file/d/10HumwtA4JOX87ak6EFyNWcEclXCmAxgi/view?usp=sharing)
 
-- ⚡ Fun fact **Coding will soon be as important as reading.**
+- ⚡ Fun fact : **Coding will soon be as important as reading.**
 
 
 <p align="left">
