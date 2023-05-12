@@ -20,6 +20,8 @@ an organization.
 
 - 📫 How to reach me : **raginip721@gmail.com**
 
+-Know me in Linkedln : linkedin.com/in/raginipatil21
+
 - 📄 Know about my experiences : [https://drive.google.com/file/d/10HumwtA4JOX87ak6EFyNWcEclXCmAxgi/view?usp=sharing](https://drive.google.com/file/d/10HumwtA4JOX87ak6EFyNWcEclXCmAxgi/view?usp=sharing)
 
 - ⚡ Fun fact : **Coding will soon be as important as reading.**
