@@ -20,8 +20,8 @@ an organization.
 
 - 📫 How to reach me : **raginip721@gmail.com**
 
--Know me in Linkedln : - https://www.linkedin.com/in/raginipatil21/
-
+-Know me in Linkedln : - <a href="https://www.linkedin.com/in/raginipatil21/">
+  
 -My Portfolio: - https://Ragini212000.github.io/
 
 - 📄 Know about my experiences : [https://drive.google.com/file/d/10HumwtA4JOX87ak6EFyNWcEclXCmAxgi/view?usp=sharing](https://drive.google.com/file/d/10HumwtA4JOX87ak6EFyNWcEclXCmAxgi/view?usp=sharing)
