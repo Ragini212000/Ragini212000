@@ -20,7 +20,7 @@ an organization.
 
 - 📫 How to reach me : **raginip721@gmail.com**
 
--Know me in Linkedln : <a href="https://www.linkedin.com/in/raginipatil21/">Ragini Patil</a>
+-Know me in Linkedln : <a href='https://www.linkedin.com/in/raginipatil21/'>Ragini Patil</a>
 
 -My Portfolio: <a href='https://Ragini212000.github.io'>Portfolio</a> 
 
