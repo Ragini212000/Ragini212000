@@ -11,7 +11,8 @@ strongly interested in working in a fast-paced environment.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasbealam&label=Profile%20views&color=0e75b6&style=flat" alt="hasbealam" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://Ragini212000.github.io/](https://Ragini212000.github.io/)
+- 👨‍💻 All of my projects are available at [https://hasbealam.github.io/](https://hasbealam.github.io/)
+
 
 - 💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Java**
 
